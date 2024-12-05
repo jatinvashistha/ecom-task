@@ -1,0 +1,1 @@
+export const backend_url = "https://ecom-backend-one-red.vercel.app";
